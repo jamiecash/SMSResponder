@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMS Responder</string>
+    <string name="app_main_text">SMS is not enabled on this device. Senders will receive the following message:</string>
+
+    <string name="sms_message_blocked">The intended recipient has SMS blocked on their device and did not receive your message. Please contact them through an alternative channel.</string>
+    <string name="sms_responding">SMS received. Auto response message is being sent.</string>
+    <string name="sms_worker_error">Error in SMS work processor.</string>
+    <string name="sms_permission_request">"This application requires permission to read and send SMS messages!"</string>
+    <string name="sms_permission_granted">"SMS Permission Granted."</string>
+    <string name="sms_permission_denied">"SMS Permission Denied."</string>
+    <string name="sms_default_app_set">"App set as default SMS handler."</string>
+    <string name="sms_default_app_not_set">"App has not been set as default SMS handler. App may not behave as expected."</string>
+</resources>
